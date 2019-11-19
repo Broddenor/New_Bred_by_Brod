@@ -1,0 +1,54 @@
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Only me\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\bin\Debug\M2Mqtt.Net.dll
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ASUS\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Only me\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
