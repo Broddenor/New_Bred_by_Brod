@@ -1,0 +1,17 @@
+F:\v000.3\Pc\WpfApp1\bin\Release\WpfApp1.exe.config
+F:\v000.3\Pc\WpfApp1\bin\Release\WpfApp1.exe
+F:\v000.3\Pc\WpfApp1\bin\Release\WpfApp1.pdb
+F:\v000.3\Pc\WpfApp1\bin\Release\M2Mqtt.Net.dll
+F:\v000.3\Pc\WpfApp1\bin\Release\M2Mqtt.Net.pdb
+F:\v000.3\Pc\WpfApp1\obj\Release\MainWindow.g.cs
+F:\v000.3\Pc\WpfApp1\obj\Release\App.g.cs
+F:\v000.3\Pc\WpfApp1\obj\Release\WpfApp1_MarkupCompile.cache
+F:\v000.3\Pc\WpfApp1\obj\Release\WpfApp1_MarkupCompile.lref
+F:\v000.3\Pc\WpfApp1\obj\Release\MainWindow.baml
+F:\v000.3\Pc\WpfApp1\obj\Release\WpfApp1.g.resources
+F:\v000.3\Pc\WpfApp1\obj\Release\WpfApp1.Properties.Resources.resources
+F:\v000.3\Pc\WpfApp1\obj\Release\WpfApp1.csproj.GenerateResource.cache
+F:\v000.3\Pc\WpfApp1\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
+F:\v000.3\Pc\WpfApp1\obj\Release\WpfApp1.csproj.CopyComplete
+F:\v000.3\Pc\WpfApp1\obj\Release\WpfApp1.exe
+F:\v000.3\Pc\WpfApp1\obj\Release\WpfApp1.pdb
